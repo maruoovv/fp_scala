@@ -1,3 +1,4 @@
-코세라 Functional Programming Principles in scala 학습
+coursera Functional Programming Principles in scala 
+
 https://www.coursera.org/learn/progfun1/
 
